@@ -1,2 +1,5 @@
-# tall
-TALL Stack (Tailwind, Alpine.js, Laravel, and Livewire) Admin Dashboard
+
+## About TALL
+
+TALL Stack (Tailwind, Alpine.js, Laravel (8.*), and Livewire) Admin Dashboard
+
