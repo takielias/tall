@@ -3,6 +3,11 @@
 
 TALL Stack (Tailwind, Alpine.js, Laravel (8.*), and Livewire) Admin Dashboard
 
+Lite
+![image](https://user-images.githubusercontent.com/38932580/120344320-4e4af280-c31b-11eb-8146-fe6d8c488503.png)
+Dark
+![image](https://user-images.githubusercontent.com/38932580/120344457-6a4e9400-c31b-11eb-98b4-a3b2647d48cf.png)
+
 ## Installation
 
 ``` bash
