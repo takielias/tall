@@ -71,7 +71,7 @@
         <button class="align-middle rounded-full focus:shadow-outline-purple focus:outline-none"
             @click="toggleProfileMenu" @keydown.escape="closeProfileMenu" aria-label="Account" aria-haspopup="true">
             <img class="object-cover w-8 h-8 rounded-full"
-                src={{ 'https://ui-avatars.com/api/?name=' . auth()->user()->name ?? 'Windmill' . '&color=7F9CF5&background=EBF4FF' }}"
+                src={{ 'https://ui-avatars.com/api/?name=' . auth()->user()->name ?? 'Tall' . '&color=7F9CF5&background=EBF4FF' }}"
                 alt="{{ auth()->user()->name }}" aria-hidden="true" />
 
         </button>
