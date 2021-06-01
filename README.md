@@ -4,10 +4,10 @@
 TALL Stack (Tailwind, Alpine.js, Laravel (8.*), and Livewire) Admin Dashboard
 
 ## Dark Mode
-![image](https://user-images.githubusercontent.com/38932580/120344320-4e4af280-c31b-11eb-8146-fe6d8c488503.png)
+![image](https://user-images.githubusercontent.com/38932580/120345147-0a0c2200-c31c-11eb-9e85-1673c09d6d5d.png)
 
 ## Lite Mode
-![image](https://user-images.githubusercontent.com/38932580/120344457-6a4e9400-c31b-11eb-98b4-a3b2647d48cf.png)
+![image](https://user-images.githubusercontent.com/38932580/120345242-1db78880-c31c-11eb-846f-8eaf61b45ac5.png)
 
 ## Installation
 
