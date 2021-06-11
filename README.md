@@ -22,6 +22,11 @@ npm install && npm run dev
 ```bash
 php artisan serve
 ```
+You can check 
+```bash
+http://127.0.0.1:8000/dashboard
+```
+
 ## Support on Beerpay
 Help me out for a couple of coffee !!!
 
