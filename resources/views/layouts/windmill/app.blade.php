@@ -19,7 +19,7 @@
     {{-- Scripts --}}
     <script src="{{ asset('js/init-alpine.js') }}" defer></script>
 
-    <script src="{{ url(mix('js/app.js')) }}" defer></script>
+    <script src="{{ url(mix('js/app.js')) }}"></script>
 
 </head>
 
@@ -31,14 +31,12 @@
         @include('partials.navbar.main-navbar')
         <main class="h-full overflow-y-auto">
             <div class="container px-6 mx-auto grid">
-                @isset($slot)
-                    {{ $slot }}
-                @endisset
+                @yield('content')
             </div>
         </main>
     </div>
 </div>
-
+@yield('js')
 @livewireScripts
 </body>
 
